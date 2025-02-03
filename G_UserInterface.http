@@ -1,0 +1,6 @@
+@G_UserInterface_HostAddress = http://localhost:5017
+
+GET {{G_UserInterface_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
